@@ -1,0 +1,49 @@
+/*以下为整体的css*/
+A:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #C60808; TEXT-DECORATION: none
+}
+/*以下为中文版中的css*/
+.title_1{
+	FONT-WEIGHT: bolder;
+	FONT-SIZE: 14px;
+	COLOR: #000000;
+	LINE-HEIGHT: 150%;
+	FONT-FAMILY: "宋体";
+	TEXT-DECORATION: none
+}
+.text_1 {
+	FONT-SIZE: 12px; LINE-HEIGHT: 22px;COLOR: #333333; FONT-FAMILY: "宋体"; TEXT-ALIGN: justify
+}
+.bottom_1 {
+	FONT-SIZE: 12px; LINE-HEIGHT: 150%; FONT-FAMILY: "宋体"; 
+}
+
+/*以下为英文版中的css*/
+.en_title_1 {
+	font-family:"Arial", "Verdana", "Helvetica", "sans-serif";
+	FONT-WEIGHT:bolder;
+	FONT-SIZE:9px;
+	COLOR:022A75;
+	LINE-HEIGHT: 150%;
+	TEXT-ALIGN:justify;
+	TEXT-DECORATION:none;
+}
+.en_title_2 {
+	font-family:"Arial", "Verdana", "Helvetica", "sans-serif";
+	FONT-WEIGHT:bolder;FONT-SIZE:14px; COLOR:022A75;LINE-HEIGHT: 150%; 
+	TEXT-DECORATION:none;
+}
+.en_text_1 {
+	FONT-FAMILY:"Arial", "Verdana", "Helvetica", "sans-serif";
+	FONT-SIZE: 12px; LINE-HEIGHT: 25px;COLOR: #333333
+}
+.en_bottom_1 {
+	FONT-FAMILY:"Arial","Verdana","Helvetica","sans-serif";
+	FONT-SIZE: 12px; LINE-HEIGHT: 20px;
+}
